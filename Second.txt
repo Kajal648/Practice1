@@ -1,3 +1,7 @@
 hyyyyyyy
 
+<<<<<<< HEAD
 done by main
+=======
+done by dev1
+>>>>>>> ce41a86 (done by dev1)
